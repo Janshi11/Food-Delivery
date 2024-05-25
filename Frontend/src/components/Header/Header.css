@@ -1,0 +1,114 @@
+/* .header {
+    position: relative; 
+    background-color: #f8f9fa;
+    padding: 20px; 
+    text-align: center; 
+  }
+  
+  .header img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .header-contents {
+    position: absolute; 
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    z-index: 1; 
+  }
+  
+  .header h3,
+  .header p,
+  .header button {
+    color: #fff; 
+  }
+  
+  .header h3 {
+    font-size: 24px;
+    margin-bottom: 10px; 
+  }
+  
+  .header p {
+    font-size: 16px; 
+    margin-bottom: 20px; 
+  }
+  
+  .header button {
+    background: transparent;
+    font-size: 15px;
+    color: darkcyan;
+    border: 1.5px solid teal;
+    padding: 10px 30px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.2s; 
+  }
+  
+  .header button:hover {
+    background-color: paleturquoise; 
+  }
+  
+  */
+
+
+  .header {
+    position: relative; 
+    background-color: #f8f9fa;
+    padding: 20px; 
+    text-align: center; 
+  }
+  
+  .header img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px; /* Adjust the value as needed */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adjust the shadow for blending effect */
+  }
+  
+  .header-contents {
+    position: absolute; 
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    z-index: 1; 
+  }
+  
+  .header h3,
+  .header p,
+  .header button {
+    color: #fff; 
+  }
+  
+  .header h3 {
+    font-size: 24px;
+    margin-bottom: 10px; 
+  }
+  
+  .header p {
+    font-size: 16px; 
+    margin-bottom: 20px; 
+  }
+  
+  .header button {
+    background: transparent;
+    font-size: 15px;
+    color: darkcyan;
+    border: 1.5px solid teal;
+    padding: 10px 30px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.2s; 
+  }
+  
+  .header button:hover {
+    background-color: paleturquoise; 
+  }
+  
+  .header-img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px; /* Adjust the value as needed */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adjust the shadow for blending effect */
+  }
+  
